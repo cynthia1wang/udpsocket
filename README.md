@@ -11,6 +11,8 @@ This server is listen 127.0.0.1:20000, you can fix it.
 # Run
 git clone https://github.com/cynthia1wang/udpsocket.git
 
+$cd udpsocket
+
 $python server.py
 
 $python client.py
