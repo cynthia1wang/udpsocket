@@ -1,7 +1,7 @@
 # udpsocket
- This test program use python to send udp message and recv message.
+ This test program use python to send udp message and receive message.
  
- before I send message, I must send 'session start' message to server. and after I deal with message, I need to send 'session end' message. So I use Decorator.
+ before I send message, I must send 'session start' message to server. and after I deal with message, I need to send 'session end' message. So I use decorator.
 
 # Prerequisites:
 both python2 and python3 are ok.
